@@ -3,7 +3,7 @@ markdown
 
 A beautiful, interactive task management application built with React, Tailwind CSS, and Framer Motion. Manage your todos with style!
 
-<img id="preview" src="" alt="Image Preview" />
+<img id="preview" src="src/assets/preview.png" alt="Image Preview" />
 
 ## ✨ Features
 

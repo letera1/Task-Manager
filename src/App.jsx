@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const initialTasks = [
-  { id: 1, title: 'Buy groceries', completed: false },
+  { id: 1, title: 'Buy Things', completed: false },
   { id: 2, title: 'Read a book', completed: true },
-  { id: 3, title: 'Walk the dog', completed: false },
+  { id: 3, title: 'Do something', completed: false },
 ];
 
 export default function TaskManager() {
